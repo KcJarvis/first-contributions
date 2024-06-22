@@ -3,7 +3,7 @@
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 -  [Earl Bersabe](https://github.com/saiteja1323) **Just the start!**
-- [Jaimin Suthar](https://github.com/KcJarvis) **Hello, I'm Earl From Philippines**
+- [Jaimin Suthar](https://github.com/KcJarvis) **Hello, I'm Jam,in From India**
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
 - [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From China**
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
